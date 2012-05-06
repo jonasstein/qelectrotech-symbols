@@ -1,0 +1,15 @@
+<definition width="60" version="0.3" hotspot_x="30" hotspot_y="40" height="80" type="element" orientation="dyyy">
+    <names>
+        <name lang="de">Meter</name>
+        <name lang="en">Meter</name>
+        <name lang="fr">Meter</name>
+    </names>
+    <informations>https://github.com/jonasstein/qelectrotech-symbols
+EN 60617</informations>
+    <description>
+        <rect width="40" x="-20" y="-10" antialias="false" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect width="40" x="-20" y="-30" antialias="false" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="0" y="-34" orientation="n"/>
+        <terminal x="0" y="34" orientation="s"/>
+    </description>
+</definition>
